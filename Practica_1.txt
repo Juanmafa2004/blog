@@ -1,6 +1,8 @@
 Está es la historia de Juan Manuel Forero.
 
+Tiene 19 años en este momento y nació en Colombia.
+
 Aqui inicia mi travesia con git y github
 
 
-con  toda mi actitud !!
+con  toda mi actitud 
