@@ -6,7 +6,10 @@ Es una practica de un repositorio hecho para el curso de git y github en platzi
 - Enteder los diferentes flujos de trabajo basicos y avanzados para mi carrera en un futuro profesional
 - Enamorarme de los repositorios open source y aprender aportar mi conocimiento de manera correcta y eficaz.
 
+
 - NO DEJAR DE APRENDER
+
+- Aprender y avanzar en muchas ramas del desarrollo
 #### Nota
 
 Este es mi primer readme asi que perdón la falta de cosas, espero ir mejorando más con el tiempo.
